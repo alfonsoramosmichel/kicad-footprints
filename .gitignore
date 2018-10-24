@@ -1,1 +1,4 @@
 *.pyc
+
+#ignorar la carpeta completa de modelos 3D
+packages3d/
